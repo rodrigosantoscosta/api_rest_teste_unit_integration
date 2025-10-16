@@ -60,6 +60,8 @@ java-rest-api
 
 4. **Acessar a API:**
    A API estará disponível em `http://localhost:8080/api/items`.
+5.  **Documentação da API:**
+   A documentação via swagger está diponível em `http://localhost:8080/swagger-ui/index.html`.
 
 ## Exemplos de Uso
 
