@@ -1,0 +1,5 @@
+com\example\demo\model\Item.class
+com\example\demo\DemoApplication.class
+com\example\demo\service\ItemService.class
+com\example\demo\controller\ApiController.class
+com\example\demo\exception\RestExceptionHandler.class
