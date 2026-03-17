@@ -93,6 +93,13 @@ Testes unitários estão incluídos no projeto para validar a funcionalidade da 
 mvn test
 ```
 
+
+Para executar testes específicos:
+```
+Classe específica: mvn test -Dtest=MinhaClasseTeste.
+Método específico: mvn test -Dtest=MinhaClasseTeste#metodoEspecifico
+```
+
 Isso executará os testes definidos em `ApiControllerTest.java`, os quais verificam as respostas corretas em JSON e XML, além de validar os códigos de status HTTP.
 
 ## Testes unitários
